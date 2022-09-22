@@ -7,7 +7,7 @@ systems software and fullstack engineering, <br>studying computer science at ETH
 ![](https://github-readme-stats.vercel.app/api?username=d3psi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=d3psi&theme=dark&hide_border=true)<br/>
 
-* and by inaccurate i mean like orders of magnitude inaccurate lol
+\* and by inaccurate i mean like orders of magnitude inaccurate lol
 
 ### random cringe quote from cool people
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
