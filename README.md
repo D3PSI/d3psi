@@ -6,6 +6,8 @@ systems software and fullstack engineering, <br>studying computer science at ETH
 # some stats:
 ![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### random quote (that i don't necessarily agree with)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
