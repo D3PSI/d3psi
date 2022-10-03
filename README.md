@@ -4,10 +4,7 @@ systems software and fullstack engineering, <br>studying computer science at ETH
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 # some stats:
-![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3psi&theme=dark)](https://git.io/streak-stats)
 
 ### random quote (that i don't necessarily agree with)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
