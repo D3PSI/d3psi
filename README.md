@@ -6,5 +6,5 @@ systems software and fullstack engineering, <br>studying computer science at ETH
 # some stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=d3psi&theme=dark&hide_border=true)<br/>
 
-### random quote
+### random quote (i don't necessarily agree with)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
