@@ -7,5 +7,5 @@ systems software and fullstack engineering, <br>studying computer science at ETH
 ![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/d3psi/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-### random quote (i don't necessarily agree with)
+### random quote (that i don't necessarily agree with)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
